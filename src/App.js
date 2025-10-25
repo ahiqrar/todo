@@ -18,7 +18,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>✨ Simple To-Do List</h1>
+      <h1> Simple To-Do List</h1>
 
       <div className="input-box">
         <input
